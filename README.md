@@ -1,3 +1,10 @@
+# Improvements
+
+- [grub-brts](https://github.com/Antynea/grub-btrfs) -> recuperar snapshots fallados de sistema
+- alarmas
+    - avisar cuando fallen backups
+    - problemas de rendimiento de algun servicio, exceso cpu, ram, etc. 
+
 # Brainstorming
 
 - Set-up public netboot
