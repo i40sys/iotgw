@@ -52,6 +52,7 @@ Woking on opening an internal project to the public.
 - Web terminal
 - Composecraft
 - Coolify, Dokploy, Convex, or similar for central deployment
+- Kestra, or similar for central automation
 
 ## Reference
 
