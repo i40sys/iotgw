@@ -1,4 +1,6 @@
-# IoT Gateway
+# IoT Gateway NG
+
+Woking on opening an internal project to the public.
 
 ## Features
 
@@ -35,9 +37,10 @@
   - Cron jobs
 
 
-## Functionalities
+## Users
 
-- ???
+- System Administrators are the users of this project
+- Developers/Contributors are the ones that evolve the project
 
 ## Brainstorming
 
@@ -48,6 +51,7 @@
 - Cronicle (central crontab management)
 - Web terminal
 - Composecraft
+- Coolify, Dokploy, Convex, or similar for central deployment
 
 ## Reference
 
