@@ -2,6 +2,8 @@
 
 Woking on opening an internal project to the public.
 
+> An opinionated way grouping together a set of applications for resolving industrial IoT challenges inside a manufactoring plan.
+
 ## Features
 
 - iPXE based installation (netboot using HTTP and clonezilla)
@@ -35,7 +37,6 @@ Woking on opening an internal project to the public.
   - Package manager
   - Startup services
   - Cron jobs
-
 
 ## Users
 
