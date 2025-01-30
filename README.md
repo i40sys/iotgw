@@ -57,6 +57,10 @@ Woking on opening an internal project to the public.
 
 ## Reference
 
+### Related projects
+
+- https://meta-os.eu/
+
 ### Uptime Kuma
 
 - https://github.com/louislam/uptime-kuma
