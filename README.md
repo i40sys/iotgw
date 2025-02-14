@@ -54,7 +54,6 @@ Woking on opening an internal project to the public.
   - Startup services
   - Cron jobs
 
-
 ## Users
 
 - System Administrators are the users of this project
@@ -73,6 +72,10 @@ Woking on opening an internal project to the public.
 - Kestra, or similar for central automation
 
 ## Reference
+
+### Related projects
+
+- https://meta-os.eu/
 
 ### Uptime Kuma
 
