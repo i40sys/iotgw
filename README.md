@@ -2,6 +2,24 @@
 
 Woking on opening an internal project to the public.
 
+## Video Demo
+
+- Networking overview (Zerotier + bridged network)
+- Povisioning: How to deploy base image (netboot) + Base system (af)
+- Centralized and automated management: Ansible + Ansible Forms
+- Backup image and restore (netboot)
+- Rescue processes (netboot live image + ssh)
+- Basic system management (OpenWRT UI + ttyd + ssh)
+- Stacks: containers management (Docker + GitOps + Dockge)
+- Observability: Grafana Alloy + Global Grafana (logs and metrics, supported OTel)
+- Monitoring: Uptime Kuma + Global Grafana
+- Backup: Duplicati + Telegraf + InfluxDB + Grafana
+- MQTT: Mosquitto + EMQX
+- Automation: Node-RED (Git based flows)
+- Development: VSCode in-browser
+- Documentation: Notion + Git hooks
+- Development base image: Ansible creation base image
+
 ## Features
 
 - iPXE based installation (netboot using HTTP and clonezilla)
