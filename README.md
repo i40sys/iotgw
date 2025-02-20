@@ -71,6 +71,7 @@ Woking on opening an internal project to the public.
 - Coolify, Dokploy, Convex, or similar for central deployment
 - Kestra, or similar for central automation
 - Integrate all services behind NGINX and manage it with NGINX UI: https://github.com/0xJacky/nginx-ui
+- New theme for OpenWRT: Argon - https://github.com/jerrykuku/luci-theme-argon
 
 ## Reference
 
