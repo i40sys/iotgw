@@ -6,26 +6,55 @@ Woking on opening an internal project to the public.
 
 - Networking overview (Zerotier + bridged network)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6T7rvnrf6K4/0.jpg)](https://www.youtube.com/embed/6T7rvnrf6K4?si=U8OCnHJ-6hS1b_Uk)
-
-    <iframe width="560" height="315"
-src="https://www.youtube.com/embed/6T7rvnrf6K4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Networking overview](https://img.youtube.com/vi/6T7rvnrf6K4/0.jpg)](https://www.youtube.com/embed/6T7rvnrf6K4?si=U8OCnHJ-6hS1b_Uk)
 
 - Povisioning: How to deploy base image (netboot) + Base system (af)
+
+[![Povisioning: How to deploy base image (netboot) + Base system (af)](https://img.youtube.com/vi/aq3I2qahD7U/0.jpg)](https://www.youtube.com/embed/aq3I2qahD7U?si=U8OCnHJ-6hS1b_Uk)
+
 - Centralized and automated management: Ansible + Ansible Forms
+
+[![Centralized and automated management: Ansible + Ansible Forms](https://img.youtube.com/vi/nD3MafF8zLU/0.jpg)](https://www.youtube.com/embed/nD3MafF8zLU?si=U8OCnHJ-6hS1b_Uk)
+
 - Backup image and restore (netboot)
+
+[![Backup image and restore (netboot)](https://img.youtube.com/vi/Jz8XUtylkBI/0.jpg)](https://www.youtube.com/embed/Jz8XUtylkBI?si=U8OCnHJ-6hS1b_Uk)
+
 - Rescue processes (netboot live image + ssh)
+
+[![Rescue processes (netboot live image + ssh)](https://img.youtube.com/vi/XLT-ElDg0NM/0.jpg)](https://www.youtube.com/embed/XLT-ElDg0NM?si=U8OCnHJ-6hS1b_Uk)
+
 - Basic system management (OpenWRT UI + ttyd + ssh)
+
+[![Basic system management (OpenWRT UI + ttyd + ssh)](https://img.youtube.com/vi/e-h6pZ5Qd1U/0.jpg)](https://www.youtube.com/embed/e-h6pZ5Qd1U?si=U8OCnHJ-6hS1b_Uk)
+
 - Stacks: containers management (Docker + GitOps + Dockge)
+
+[![Stacks: containers management (Docker + GitOps + Dockge)](https://img.youtube.com/vi/kQc9rAQwNEE/0.jpg)](https://www.youtube.com/embed/kQc9rAQwNEE?si=U8OCnHJ-6hS1b_Uk)
+
 - Observability: Grafana Alloy + Global Grafana (logs and metrics, supported OTel)
+
+[![Observability: Grafana Alloy + Global Grafana (logs and metrics, supported OTel)](https://img.youtube.com/vi/44clHt8Mp8M/0.jpg)](https://www.youtube.com/embed/44clHt8Mp8M?si=U8OCnHJ-6hS1b_Uk)
+
 - Monitoring: Uptime Kuma + Global Grafana
+
+[![Monitoring: Uptime Kuma + Global Grafana](https://img.youtube.com/vi/cBWgi_J1zM8/0.jpg)](https://www.youtube.com/embed/cBWgi_J1zM8?si=U8OCnHJ-6hS1b_Uk)
+
 - Backup: Duplicati + Telegraf + InfluxDB + Grafana
+
+[![Backup: Duplicati + Telegraf + InfluxDB + Grafana](https://img.youtube.com/vi/rWEDQd0qn2c/0.jpg)](https://www.youtube.com/embed/rWEDQd0qn2c?si=U8OCnHJ-6hS1b_Uk)
+
 - MQTT: Mosquitto + EMQX
+
+[![MQTT: Mosquitto + EMQX](https://img.youtube.com/vi/mgSjszDx8S8/0.jpg)](https://www.youtube.com/embed/mgSjszDx8S8?si=U8OCnHJ-6hS1b_Uk)
+
 - Automation: Node-RED (Git based flows)
+
+[![Automation: Node-RED (Git based flows)](https://img.youtube.com/vi/P1uduhdSG1o/0.jpg)](https://www.youtube.com/embed/P1uduhdSG1o?si=U8OCnHJ-6hS1b_Uk)
+
 - Development base image: Ansible creation base image
+
+[![Development base image: Ansible creation base image](https://img.youtube.com/vi/bW0RQB9-xr4/0.jpg)](https://www.youtube.com/embed/bW0RQB9-xr4?si=U8OCnHJ-6hS1b_Uk)
 
 ## Features
 
