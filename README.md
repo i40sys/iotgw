@@ -8,6 +8,12 @@ Woking on opening an internal project to the public.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6T7rvnrf6K4/0.jpg)](https://www.youtube.com/embed/6T7rvnrf6K4?si=U8OCnHJ-6hS1b_Uk)
 
+    <iframe width="560" height="315"
+src="https://www.youtube.com/embed/6T7rvnrf6K4" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 - Povisioning: How to deploy base image (netboot) + Base system (af)
 - Centralized and automated management: Ansible + Ansible Forms
 - Backup image and restore (netboot)
