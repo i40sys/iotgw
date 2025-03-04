@@ -5,6 +5,9 @@ Woking on opening an internal project to the public.
 ## Video Demo
 
 - Networking overview (Zerotier + bridged network)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/U8OCnHJ-6hS1b_Uk/0.jpg)](https://www.youtube.com/embed/6T7rvnrf6K4?si=U8OCnHJ-6hS1b_Uk)
+
 - Povisioning: How to deploy base image (netboot) + Base system (af)
 - Centralized and automated management: Ansible + Ansible Forms
 - Backup image and restore (netboot)
@@ -16,8 +19,6 @@ Woking on opening an internal project to the public.
 - Backup: Duplicati + Telegraf + InfluxDB + Grafana
 - MQTT: Mosquitto + EMQX
 - Automation: Node-RED (Git based flows)
-- Development: VSCode in-browser
-- Documentation: Notion + Git hooks
 - Development base image: Ansible creation base image
 
 ## Features
