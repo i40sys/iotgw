@@ -6,7 +6,7 @@ Woking on opening an internal project to the public.
 
 - Networking overview (Zerotier + bridged network)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/U8OCnHJ-6hS1b_Uk/0.jpg)](https://www.youtube.com/embed/6T7rvnrf6K4?si=U8OCnHJ-6hS1b_Uk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6T7rvnrf6K4/0.jpg)](https://www.youtube.com/embed/6T7rvnrf6K4?si=U8OCnHJ-6hS1b_Uk)
 
 - Povisioning: How to deploy base image (netboot) + Base system (af)
 - Centralized and automated management: Ansible + Ansible Forms
