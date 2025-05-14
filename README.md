@@ -108,6 +108,9 @@ Woking on opening an internal project to the public.
 - Kestra, or similar for central automation
 - Integrate all services behind NGINX and manage it with NGINX UI: https://github.com/0xJacky/nginx-ui
 - New theme for OpenWRT: Argon - https://github.com/jerrykuku/luci-theme-argon
+- Komodo
+- Projects, apps, nodes, etc. Central management inspiration at Flowfuse (screenshots), Portainer, Dockge, Komodo, Rancher. n-tiers POV is an important point for management.
+- Important pendnigs TBD: distributed storage, git centra config management, maybe something else.
 
 ## Reference
 
